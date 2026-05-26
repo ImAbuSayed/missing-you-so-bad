@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/missing-you-so-bad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Missing You So Bad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-you-so-bad/) |
+| **Get License** | [Official Music Licensing for Missing You So Bad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-you-so-bad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can still remember how you taste in the dark
+> Running my fingers like a match to a spark
+> I've been chasing shadows on a midnight drive
+> Craving the fire that keeps me alive
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

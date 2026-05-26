@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Missing You So Bad
+
+This log tracks the cryptographic history and versioning for the song **Missing You So Bad** (missing-you-so-bad).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T16:47:09.635153 | `v1` | `1360444468850f429c0975b4e8dd07e158ffd6679233be747cb3d8c356ffdd62` | `27ff30a9a64cf27148c949f17f387142002660c7e6bb8c4b402ad79ecda2f939` | `2026-05-26_missing-you-so-bad-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

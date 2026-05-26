@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/missing-you-so-bad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Missing You So Bad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-you-so-bad/) |
+| **Get License** | [Commercial Licensing for Missing You So Bad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-you-so-bad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1360444468850f429c0975b4e8dd07e158ffd6679233be747cb3d8c356ffdd62` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
